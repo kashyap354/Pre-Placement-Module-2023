@@ -7,8 +7,8 @@
 - Preferred Programming Language: C++/Java/Python
 
 ## Coding Profiles
-- LeetCode: [FIRSTNAME_LASTNAME](https://leetcode.com/YourLeetCodeUserName/)
-- HackerRank: [FIRSTNAME_LASTNAME](https://www.hackerrank.com/HackerRankUserName)
+- LeetCode: [Avdhesh_kashyap]https://leetcode.com/avdheshkashyap354/
+- HackerRank: [Avdhesh _kashyap]https://www.hackerrank.com/avdheshkashyap41
 
 ## Placement Module
 1. [DS I](https://github.com/Kashyap354/Pre-Placement-Module-2023/tree/main/DS%20I)
